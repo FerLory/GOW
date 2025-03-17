@@ -191,6 +191,8 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				fr,
+				it,
 				Base,
 			);
 			mainGroup = FACCDA7B2D864E5C005D79C3;
@@ -398,7 +400,8 @@
 				DEVELOPMENT_ASSET_PATHS = "\"GOW/Preview Content\"";
 				DEVELOPMENT_TEAM = HBL55S7SDD;
 				ENABLE_PREVIEWS = YES;
-				GENERATE_INFOPLIST_FILE = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = "GOW/Info.plist ";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -427,7 +430,8 @@
 				DEVELOPMENT_ASSET_PATHS = "\"GOW/Preview Content\"";
 				DEVELOPMENT_TEAM = HBL55S7SDD;
 				ENABLE_PREVIEWS = YES;
-				GENERATE_INFOPLIST_FILE = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = "GOW/Info.plist ";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
